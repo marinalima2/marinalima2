@@ -1,5 +1,5 @@
-### < Olá, eu sou a Marina de Lima 👋 />
-<div align="center">
+### <h1 align="center">< Olá, eu sou a Marina de Lima <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> />
+<div align="center"></h1>
   <a href="https://github.com/marinalima2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marinalima2&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marinalima2&layout=compact&langs_count=7&theme=dracula"/>
