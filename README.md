@@ -10,7 +10,7 @@
     </tr>
     <tr>
         <td>
-            <p>📚 Estudo C# no Programa Entra21</p>
+            <p>📚 Programo em C#</p>
         </td>
     </tr>
     
